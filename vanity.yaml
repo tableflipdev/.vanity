@@ -1,0 +1,5 @@
+host: tableflip.dev
+
+paths:
+  /d2k:
+    repo: https://github.com/n3wscott/d2k
