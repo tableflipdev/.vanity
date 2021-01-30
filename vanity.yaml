@@ -6,3 +6,6 @@ paths:
 
   /buoy:
     repo: https://github.com/n3wscott/buoy
+
+  /boa:
+    repo: https://github.com/n3wscott/boa
