@@ -9,3 +9,6 @@ paths:
 
   /boa:
     repo: https://github.com/n3wscott/boa
+
+  /maths:
+    repo: https://github.com/n3wscott/maths
