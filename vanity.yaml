@@ -12,3 +12,6 @@ paths:
 
   /maths:
     repo: https://github.com/n3wscott/maths
+
+  /ggsv:
+    repo: https://github.com/n3wscott/ggsv
