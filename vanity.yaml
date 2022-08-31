@@ -7,6 +7,9 @@ paths:
   /buoy:
     repo: https://github.com/n3wscott/buoy
 
+  /bujo:
+    repo: https://github.com/n3wscott/bujo
+
   /boa:
     repo: https://github.com/n3wscott/boa
 
